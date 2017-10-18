@@ -57,8 +57,13 @@
       <file leaf-file-name="UserAlert.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/be/sme/domain/UserAlert.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="62">
               <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+=======
+            <state relative-caret-position="285">
+              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+>>>>>>> 2f4da32134a39e4563afe15ebf0c0c2bfd5f6701
               <folding />
             </state>
           </provider>
@@ -76,11 +81,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Risk.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Risk.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/be/sme/domain/Risk.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="62">
               <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+=======
+            <state relative-caret-position="105">
+              <caret line="7" column="61" lean-forward="false" selection-start-line="7" selection-start-column="61" selection-end-line="7" selection-end-column="61" />
+>>>>>>> 2f4da32134a39e4563afe15ebf0c0c2bfd5f6701
               <folding />
             </state>
           </provider>
@@ -89,8 +99,13 @@
       <file leaf-file-name="City.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/be/sme/domain/City.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="124">
               <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+=======
+            <state relative-caret-position="45">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+>>>>>>> 2f4da32134a39e4563afe15ebf0c0c2bfd5f6701
               <folding />
             </state>
           </provider>
@@ -151,6 +166,10 @@
         <option value="$PROJECT_DIR$/src/be/sme/repository/Repository.java" />
         <option value="$PROJECT_DIR$/src/be/sme/domain/UserAlert.java" />
         <option value="$PROJECT_DIR$/src/be/sme/domain/City.java" />
+<<<<<<< HEAD
+=======
+        <option value="$PROJECT_DIR$/src/be/sme/domain/Risk.java" />
+>>>>>>> 2f4da32134a39e4563afe15ebf0c0c2bfd5f6701
       </list>
     </option>
   </component>
@@ -354,13 +373,21 @@
       <option name="presentableId" value="Default" />
       <updated>1508336507349</updated>
       <workItem from="1508336510612" duration="146000" />
+<<<<<<< HEAD
       <workItem from="1508336812567" duration="1248000" />
       <workItem from="1508338349323" duration="558000" />
+=======
+      <workItem from="1508336812567" duration="1532000" />
+>>>>>>> 2f4da32134a39e4563afe15ebf0c0c2bfd5f6701
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="1952000" />
+=======
+    <option name="totallyTimeSpent" value="1678000" />
+>>>>>>> 2f4da32134a39e4563afe15ebf0c0c2bfd5f6701
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="2182" height="1402" extended-state="6" />
@@ -431,6 +458,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/be/sme/console/Console.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="124">
@@ -458,6 +486,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/be/sme/domain/City.java">
+=======
+    <entry file="file://$PROJECT_DIR$/src/be/sme/domain/Stages.java">
+>>>>>>> 2f4da32134a39e4563afe15ebf0c0c2bfd5f6701
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="62">
           <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
@@ -465,6 +496,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/be/sme/domain/Place.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="62">
@@ -473,6 +505,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> 2f4da32134a39e4563afe15ebf0c0c2bfd5f6701
     <entry file="file://$PROJECT_DIR$/src/be/sme/domain/UserCredential.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="341">
@@ -489,6 +523,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/be/sme/domain/UserAlert.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
@@ -498,6 +533,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/be/sme/service/Service.java">
+=======
+    <entry file="file://$PROJECT_DIR$/src/be/sme/domain/User.java">
+>>>>>>> 2f4da32134a39e4563afe15ebf0c0c2bfd5f6701
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
@@ -558,12 +596,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/be/sme/domain/UserAlert.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="62">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+=======
+        <state relative-caret-position="285">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+>>>>>>> 2f4da32134a39e4563afe15ebf0c0c2bfd5f6701
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/be/sme/domain/UserCredential.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="181">
@@ -584,22 +628,50 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="62">
           <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/be/sme/domain/City.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/be/sme/domain/Profile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="78" lean-forward="false" selection-start-line="10" selection-start-column="78" selection-end-line="10" selection-end-column="78" />
+>>>>>>> 2f4da32134a39e4563afe15ebf0c0c2bfd5f6701
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/be/sme/domain/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="124">
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/be/sme/domain/Place.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+>>>>>>> 2f4da32134a39e4563afe15ebf0c0c2bfd5f6701
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/be/sme/domain/City.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="124">
           <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/be/sme/domain/Risk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="61" lean-forward="false" selection-start-line="7" selection-start-column="61" selection-end-line="7" selection-end-column="61" />
+>>>>>>> 2f4da32134a39e4563afe15ebf0c0c2bfd5f6701
           <folding />
         </state>
       </provider>
